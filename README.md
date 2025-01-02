@@ -44,7 +44,7 @@ For more information on setup and configurations, check out our [documentation](
 Need help? Join our **[Discord Community](https://discord.gg/wgKJMdHvkE)** for 24/7 support and updates!
 
 ## OUR WebPanel:
-![Webpanel]([ttps://i.ibb.co/YRJxPtL/moonguardl2ogo.png](https://i.ibb.co/FY7pYZR/Bild-2025-01-02-131954391.png))
+![Webpanel](https://i.ibb.co/FY7pYZR/Bild-2025-01-02-131954391.png)
 ---
 
 **MoonGuard** - Protect your server with the most advanced anti-cheat solution on the market today!
