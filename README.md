@@ -1,4 +1,4 @@
-![MoonGuard Systems](https://media.discordapp.net/attachments/1294315562570223676/1296376246212497438/mg_systems_banner.png?ex=6718a776&is=671755f6&hm=4f6d5c168ad1a934efcc17c0e410c2b8437b47f641de403724752272b92e600f&=&format=webp&quality=lossless)
+![MoonGuard Systems](https://i.ibb.co/YRJxPtL/moonguardl2ogo.png)
 
 # 🌙 MoonGuard - Advanced FiveM Anti-Cheat Solution
 
@@ -16,7 +16,7 @@ MoonGuard’s AI-powered assistant helps detect suspicious patterns and player b
 Easily manage your server’s anti-cheat settings through a sleek, intuitive web panel. Monitor player activity, view detailed logs, and adjust configurations in real-time.
 
 ### 🛡️ **Advanced Banning**
-- **Global Banning**: Keep repeat offenders out for good by banning them across all MoonGuard-protected servers.
+- **Global Banning**: Keep repeat offenders out for good by banning them across all MoonGuard-protected servers. # 88.000 global bans
 - **Local Banning**: Manage bans locally for more control over your server's community.
 
 ### 📊 **Detailed Player Monitoring**
@@ -43,6 +43,8 @@ MoonGuard continuously scans for cheats and exploits using both **signature-base
 For more information on setup and configurations, check out our [documentation](https://discord.gg/wgKJMdHvkE).  
 Need help? Join our **[Discord Community](https://discord.gg/wgKJMdHvkE)** for 24/7 support and updates!
 
+## OUR WebPanel:
+![Webpanel]([ttps://i.ibb.co/YRJxPtL/moonguardl2ogo.png](https://i.ibb.co/FY7pYZR/Bild-2025-01-02-131954391.png))
 ---
 
 **MoonGuard** - Protect your server with the most advanced anti-cheat solution on the market today!
